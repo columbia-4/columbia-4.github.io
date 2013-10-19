@@ -26,21 +26,22 @@ body{
 }
 
 a {                  /* A stands for link, so this section is setting the default characteristics of links. */
-	color: #0000cc;
 	text-decoration: none;
+	color: #C695C6;		/* light purple */
 }
 
 h1 {		     /* This styles the header at the top of the page */
 	font: bold 2.1em Arial, Arial, Sans-Serif;
 	text-align: left;
 	padding: 0;
-	color: #cc0000;
+	color: #0000E6;		/* dark blue */
 }
 
 h2 {		     /* This styles the headers within the page */
 	font: bold 1.1em Arial, Arial, Sans-Serif;
 	padding: 0;
 	margin: 0;
+	color: #3399FF;		/* blue */
 }
 
 
