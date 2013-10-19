@@ -26,7 +26,6 @@ body{
 }
 
 a {                  /* A stands for link, so this section is setting the default characteristics of links. */
-	color: #47D147;
 	text-decoration: none;
 	color: #C695C6;		/* light purple */
 }
